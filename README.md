@@ -1,6 +1,7 @@
 ### machine learning 
 - [Understanding LSTM Networks - cohal's blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
 - [The Unreasonable Effectiveness of Recurrent Neural Networks - Andrej Karpathy blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
+- [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/) 
 - [boosting에 대해 쉽게 설명한 문서](https://losskatsu.github.io/machine-learning/boosting/#) 
 
 ### tools 
