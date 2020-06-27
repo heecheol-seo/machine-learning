@@ -3,6 +3,7 @@
 - [The Unreasonable Effectiveness of Recurrent Neural Networks - Andrej Karpathy blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/) 
 - [boosting에 대해 쉽게 설명한 문서](https://losskatsu.github.io/machine-learning/boosting/#) 
+- [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) 
 
 ### tools 
 - [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기초, 기본](http://taewan.kim/post/numpy_cheat_sheet/)
