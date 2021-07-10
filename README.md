@@ -1,3 +1,6 @@
+### deep learning 
+- [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
+
 ### machine learning 
 - [Understanding LSTM Networks - cohal's blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
 - [The Unreasonable Effectiveness of Recurrent Neural Networks - Andrej Karpathy blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
